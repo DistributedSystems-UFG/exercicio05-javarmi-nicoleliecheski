@@ -6,9 +6,9 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
-public class Server {
+public class Server1 {
 
-    public Server() {}
+    public Server1() {}
 
     public static void main(String args[]) {
         try {
